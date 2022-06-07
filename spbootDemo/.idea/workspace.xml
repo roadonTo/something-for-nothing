@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f84032d-5ac8-4a03-9986-cc3cd3584b11" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="test: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="test: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="user: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="E:" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven3.6.1\repository" />
+        <option name="mavenHome" value="D:/maven3.6.1/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\maven3.6.1\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2AEK1yNPCS2fEiI9Lpf1Er8fqCG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springboot_jpa" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\springboot练习\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoApplication">
+    <configuration name="DemoApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DemoApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f84032d-5ac8-4a03-9986-cc3cd3584b11" name="Default Changelist" comment="" />
+      <created>1613972811678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613972811678</updated>
+      <workItem from="1613972812868" duration="4363000" />
+      <workItem from="1613981045371" duration="25000" />
+      <workItem from="1614042688069" duration="1799000" />
+      <workItem from="1614696198990" duration="67000" />
+      <workItem from="1614841688652" duration="51000" />
+      <workItem from="1614841942106" duration="67000" />
+      <workItem from="1614912432797" duration="8350000" />
+      <workItem from="1618191727548" duration="1314000" />
+      <workItem from="1622689704417" duration="203000" />
+      <workItem from="1622689938131" duration="806000" />
+      <workItem from="1623405100296" duration="590000" />
+      <workItem from="1623406600454" duration="92000" />
+      <workItem from="1624513854494" duration="10000" />
+      <workItem from="1624842203800" duration="2542000" />
+      <workItem from="1626533127165" duration="37000" />
+      <workItem from="1638347626688" duration="3153000" />
+      <workItem from="1654553320841" duration="206000" />
+      <workItem from="1654569094697" duration="349000" />
+      <workItem from="1654572020854" duration="1228000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DemoApplicationTests_contextLoads - 2021.02.22 at 14h 47m 53s.xml">
+      <configuration name="DemoApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="271" key="FileChooserDialogImpl" timestamp="1654573028588">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="740" y="271" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1654573028588" />
+    <state width="1877" height="289" key="GridCell.Tab.0.bottom" timestamp="1654573257312">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1654573257312" />
+    <state width="1877" height="289" key="GridCell.Tab.0.center" timestamp="1654573257312">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="289" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1654573257312" />
+    <state width="1877" height="289" key="GridCell.Tab.0.left" timestamp="1654573257312">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="289" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1654573257312" />
+    <state width="1877" height="289" key="GridCell.Tab.0.right" timestamp="1654573257312">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="289" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1654573257312" />
+    <state width="1877" height="289" key="GridCell.Tab.1.bottom" timestamp="1654573257312">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="289" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1654573257312" />
+    <state width="1877" height="289" key="GridCell.Tab.1.center" timestamp="1654573257312">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="289" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1654573257312" />
+    <state width="1877" height="289" key="GridCell.Tab.1.left" timestamp="1654573257312">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="289" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1654573257312" />
+    <state width="1877" height="289" key="GridCell.Tab.1.right" timestamp="1654573257312">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="289" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1654573257312" />
+    <state x="440" y="91" key="SettingsEditor" timestamp="1654569121395">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="440" y="91" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1654569121395" />
+  </component>
+</project>
