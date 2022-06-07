@@ -1,0 +1,2 @@
+练习用jdbc，和用jdbcUtils连数据库使用基本sql语句的例子
+
